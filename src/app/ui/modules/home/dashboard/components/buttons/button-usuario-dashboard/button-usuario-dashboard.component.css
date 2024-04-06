@@ -1,0 +1,34 @@
+.container-button-usuario {
+  display: flex;
+  background-color: rgb(214, 214, 214);
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  justify-content: space-around;
+  align-items: start;
+  gap: 1rem;
+}
+
+.container-button-usuario-icon {
+  width: 3.5rem;
+  height: 3.5rem;
+  background-color: white;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+}
+
+.container-button-usuario-icon i {
+  font-size: 2rem;
+  color: rgb(4, 67, 126);
+}
+
+.container-button-usuario-datos-tipo {
+  background-color: rgb(167, 167, 167);
+  border-radius: 5px;
+  padding: 2px 0.4rem;
+  color: rgb(255, 255, 255);
+}
+
+.container-button-usuario:hover {
+  background-color: rgb(218, 218, 218);
+}

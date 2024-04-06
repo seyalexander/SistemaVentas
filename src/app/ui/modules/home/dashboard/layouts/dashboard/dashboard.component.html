@@ -1,31 +1,26 @@
 <section class="container-dashboard">
   <header><app-header /></header>
   <main>
-
     <div class="container-grupo-user">
       <app-button-usuario-dashboard />
     </div>
 
     <div class="container-grupo-opciones-principal">
+      @for (item of mainMenu.defaultOptions; track $index) {
       <app-button-opciones-dashboard
-      [Title]="'Configuracion'"
-      [Description]="'Modificar la base de datos'"/>
+        [Title]="item.name"
+        [Description]="item.description"
+      />
+      }
     </div>
 
     <div class="container-grupo-opciones">
+      @for (item of mainMenu.accessLink; track $index) {
       <app-button-opciones-dashboard
-      [Title]="'Configuracion'"
-      [Description]="'Modificar la base de datos'"/>
-      <app-button-opciones-dashboard
-      [Title]="'Configuracion'"
-      [Description]="'Modificar la base de datos'"/>
-      <app-button-opciones-dashboard
-      [Title]="'Configuracion'"
-      [Description]="'Modificar la base de datos'"/>
-      <app-button-opciones-dashboard
-      [Title]="'Configuracion'"
-      [Description]="'Modificar la base de datos'"/>
+        [Title]="item.name"
+        [Description]="item.description"
+      />
+      }
     </div>
-
   </main>
 </section>

@@ -22,6 +22,7 @@
 .container-opcion h5 {
   color: rgb(102, 102, 102);
   text-transform: capitalize;
+  text-align: center;
 }
 
 .container-opcion:active {
