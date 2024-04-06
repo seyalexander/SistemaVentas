@@ -1,0 +1,31 @@
+.container-opcion {
+  width: 200px;
+  background-color: transparent;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0.4rem;
+}
+
+.container-opcion i {
+  font-size: 4rem;
+  color: rgb(4, 67, 126);
+}
+
+.container-opcion h4 {
+  color: rgb(4, 67, 126);
+  text-transform: uppercase;
+}
+
+.container-opcion h5 {
+  color: rgb(102, 102, 102);
+  text-transform: capitalize;
+}
+
+.container-opcion:active {
+  background-color:  rgb(4, 67, 126);
+}
+
+.container-opcion:active :where(i,h4,h5) {color: white;}
