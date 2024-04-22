@@ -1,0 +1,40 @@
+<article class="container-menuOpcionesConfiguracion">
+  <!--NAV SUPERIOR-->
+  @for (item of toolBarApp.defaultOption; track $index) {
+  <div class="container-menuOpcionesConfiguracion-toolBarApp">
+    <div class="container-menuOpcionesConfiguracion-toolBarApp-izquierda">
+      <button type="button" class="volver" [routerLink]="item.routeOption">
+        <i class="uil uil-arrow-left"></i>
+      </button>
+      <h2>{{ item.nameOption }}</h2>
+    </div>
+    <div class="container-menuOpcionesConfiguracion-toolBarApp-derecha">
+      <button type="button"><i class="uil uil-cloud-question"></i></button>
+    </div>
+  </div>
+  }
+
+  <!--BODY OPCIONES-->
+  <div class="container-opcionesItems-seleccion">
+    <router-outlet/>
+  </div>
+
+  <!--ASIDE INFERIOR-->
+  <div class="container-menuOpcionesConfiguracion-sidebarInferior">
+    @for (item of mainMenu.defaultOptions; track $index) {
+    <div
+      class="container-menuOpcionesConfiguracion-sidebarInferior-containerItem"
+      [routerLink]="item.route" >
+      <i [class]="item.icon"></i>
+      <h5>{{ item.name }}</h5>
+    </div>
+    } @for (item of mainMenu.accessLink; track $index) {
+    <div
+      class="container-menuOpcionesConfiguracion-sidebarInferior-containerItem"
+      [routerLink]="item.route"  >
+      <i [class]="item.icon"></i>
+      <h5>{{ item.name }}</h5>
+    </div>
+    }
+  </div>
+</article>

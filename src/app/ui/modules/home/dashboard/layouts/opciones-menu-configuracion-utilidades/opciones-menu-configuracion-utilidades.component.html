@@ -1,0 +1,12 @@
+<article class="container-configuracion configuracion-basica">
+  @for (item of mainMenu.accessLink ; track $index) {
+    <div class="container-configuracion-grupo-seccion">
+      <h4>{{item.name}}</h4>
+      <div class="container-agrupacionItems">
+        @for (item of item.listaOpciones; track $index) {
+          <button type="button"><i [class]="item.listaOpcionItemIcon"></i> {{item.listaOpcionItemNombre}}</button>
+        }
+      </div>
+    </div>
+  }
+</article>

@@ -1,5 +1,15 @@
 export class IVAVentaModel {
-  IVAVentaModel_id: string | number = 0;
-  IVAVentaModel_descripcion: string = '';
-  IVAVentaModel_estado: number = 0;
+  IVAVenta_id: string | number
+  IVAVenta_descripcion: string
+  IVAVenta_estado: number
+
+  constructor (
+    IVAVenta_id: string | number,
+    IVAVenta_descripcion: string,
+    IVAVenta_estado: number
+  ) {
+    this.IVAVenta_descripcion = IVAVenta_descripcion,
+    this.IVAVenta_estado = IVAVenta_estado,
+    this.IVAVenta_id = IVAVenta_id
+  }
 }

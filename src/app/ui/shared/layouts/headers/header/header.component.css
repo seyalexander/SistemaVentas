@@ -33,3 +33,26 @@ h3 {
   width: 100%;
   color: white;
 }
+
+
+@media (max-width: 320px)  {
+  h3 {
+    display: none;
+  }
+}
+
+@media (321px <= width <= 426px)  {
+
+}
+
+@media (600px <= width <= 799px)  {
+
+}
+
+@media (min-width: 427) and (max-width: 768px) {
+
+}
+
+@media (min-width: 769px) and (max-width: 1024px)  {
+
+}

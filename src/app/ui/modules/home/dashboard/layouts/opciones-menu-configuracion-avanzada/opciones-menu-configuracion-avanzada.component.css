@@ -1,0 +1,58 @@
+.container-configuracion {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  overflow: auto;
+}
+
+.container-configuracion::-webkit-scrollbar {
+  width: 8px;
+}
+
+.container-configuracion::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.container-configuracion::-webkit-scrollbar-thumb {
+  background-color: rgb(4, 67, 126);
+  border-radius: 4px;
+}
+
+.container-configuracion::-webkit-scrollbar-thumb {
+  background-color:  rgb(4, 67, 126);
+}
+
+.container-configuracion h4 {
+  color:rgb(95, 95, 95);
+}
+
+.container-configuracion button {
+  width: 150px;
+  height: 120px;
+  border: 1px solid rgb(216, 216, 216);
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 8px;
+  color: rgb(94, 94, 94);
+  border-radius: 4px;
+}
+
+.container-configuracion button:hover {
+  background-color: rgba(4, 67, 126, 0.1);
+  color: rgb(4, 67, 126);
+}
+
+.container-configuracion button i {
+  font-size: 32px;
+}
+
+.container-agrupacionItems {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}

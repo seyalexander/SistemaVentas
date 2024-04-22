@@ -8,6 +8,7 @@ import { Injectable } from "@angular/core";
 })
 
 export class GetClientesUseCase {
+
   constructor(private _clientesGateway: clientesGateway) {}
 
   getAllClientes(): Observable<Array<clientesModel>> {

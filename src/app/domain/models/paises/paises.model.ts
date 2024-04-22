@@ -1,5 +1,21 @@
 export class paisesModel {
-  paisesModel_id: string | number = 0;
-  paisesModel_descripcion: string = '';
-  paisesModel_estado: number = 0;
+  paises_id: string | number
+  paises_descripcion: string
+  paises_estado: number
+  paises_usuarioRegistro: string
+  paises_fechaRegistro: string
+
+  constructor (
+    paises_id: string | number,
+    paises_descripcion: string,
+    paises_estado: number,
+    paises_usuarioRegistro: string,
+    paises_fechaRegistro: string
+  ) {
+    this.paises_descripcion = paises_descripcion,
+    this.paises_estado = paises_estado,
+    this.paises_id = paises_id
+    this.paises_usuarioRegistro = paises_usuarioRegistro
+    this.paises_fechaRegistro = paises_fechaRegistro
+  }
 }

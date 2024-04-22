@@ -1,0 +1,2644 @@
+{
+  "data": [
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 1,
+      "clasificacion_descripcion": "clasificacion 1",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 2,
+      "clasificacion_descripcion": "clasificacion 2",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 3,
+      "clasificacion_descripcion": "clasificacion 3",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 4,
+      "clasificacion_descripcion": "clasificacion 4",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    },
+    {
+      "clasificacion_id": 5,
+      "clasificacion_descripcion": "clasificacion 5",
+      "clasificacion_estado": 1,
+      "clasificacion_fechaRegistro": "2024-05-05"
+    }
+  ]
+}

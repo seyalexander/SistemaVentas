@@ -1,0 +1,76 @@
+.container-menuOpcionesConfiguracion {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+/*NAV SUPERIOR*/
+.container-menuOpcionesConfiguracion-toolBarApp {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 16px;
+  box-sizing: border-box;
+  background-color:  rgb(4, 67, 126);
+}
+
+.container-menuOpcionesConfiguracion-toolBarApp-izquierda {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: white;
+}
+
+.container-menuOpcionesConfiguracion-toolBarApp-izquierda button {
+  width: 48px;
+  height: 48px;
+  border: none;
+  background-color: transparent;
+  color: white;
+  font-size: 2rem;
+}
+
+.container-menuOpcionesConfiguracion-toolBarApp-derecha button{
+  width: 48px;
+  height: 48px;
+  border: none;
+  background-color: transparent;
+  color: white;
+  font-size: 2rem;
+}
+/*LISTA OPCIONES*/
+.container-opcionesItems-seleccion {
+  width: 100%;
+  height: calc(100vh - 120px);
+  background-color: #F5F5F5;
+  padding: 16px;
+  box-sizing: border-box;
+}
+
+/*ASIDE INFERIOR*/
+.container-menuOpcionesConfiguracion-sidebarInferior {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  gap: 0px;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  box-shadow: 0px 4px 18px 8px rgba(0, 0, 0, 0.15);
+}
+
+.container-menuOpcionesConfiguracion-sidebarInferior-containerItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 16px;
+}
+
+.container-menuOpcionesConfiguracion-sidebarInferior-containerItem:hover {
+  color: rgb(4, 67, 126);
+  cursor: pointer;
+}
+

@@ -30,3 +30,26 @@
 }
 
 .container-opcion:active :where(i,h4,h5) {color: white;}
+
+
+@media (max-width: 320px)  {
+  .container-opcion {
+    width: 100%;
+  }
+}
+
+@media (321px <= width <= 426px)  {
+
+}
+
+@media (600px <= width <= 799px)  {
+
+}
+
+@media (min-width: 427) and (max-width: 768px) {
+
+}
+
+@media (min-width: 769px) and (max-width: 1024px)  {
+
+}
